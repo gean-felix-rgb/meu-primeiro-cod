@@ -1,2 +1,2 @@
-# meu-primeiro-cod
+# meu-primeiro-codigo
 aprendendo
